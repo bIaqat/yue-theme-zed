@@ -3,5 +3,5 @@ name = "Yue Theme"
 version = "0.6.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "Theme based off of the theme from the moonscript.org code examples"
+description = "Theme based off the moonscript.org code examples"
 repository = "https://github.com/biaqat/yue-theme-zed"
