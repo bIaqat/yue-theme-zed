@@ -857,7 +857,7 @@
 				"editor.active_wrap_guide": "#BCA88F19",
 				"editor.document_highlight.read_background": null,
 				"editor.document_highlight.write_background": null,
-				"terminal.background": "#e5dfd6",
+				"terminal.background": "F2EEE6",
 				"terminal.foreground": "#3C3C3C",
 				"terminal.bright_foreground": null,
 				"terminal.dim_foreground": null,
