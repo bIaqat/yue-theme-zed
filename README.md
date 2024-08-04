@@ -17,7 +17,7 @@ based on the theme used in the [moonscript website](<https://moonscript.org/>)
 <img src="assets/yue-sun.png" width="670">
 
 ### Yue Eclipse
-<img src="assets/yue-eclipse.png" width="670">
+<img src="assets/yue-eclipse2.png" width="670">
 
 ## Installation
 1. Copy yue.json to ~/.config/zed/themes/
