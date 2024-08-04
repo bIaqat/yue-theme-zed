@@ -1,5 +1,5 @@
 # Yue
-`variants: [New Moon, Full Moon, Sun, Moon]`
+`variants: [New Moon, Full Moon, Sun, Moon, Eclipse]`
 
 based on the theme used in the [moonscript website](<https://moonscript.org/>)
 
@@ -16,6 +16,8 @@ based on the theme used in the [moonscript website](<https://moonscript.org/>)
 ### Yue Sun
 <img src="assets/yue-sun.png" width="670">
 
+### Yue Eclipse
+<img src="assets/yue-eclipse.png" width="670">
 
 ## Installation
 1. Copy yue.json to ~/.config/zed/themes/
