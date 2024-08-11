@@ -8,16 +8,16 @@ based on the theme used in the [moonscript website](<https://moonscript.org/>)
 <img src="assets/yue-moon.png" width="670">
 
 ### Yue Full Moon
-<img src="assets/yue-full-moon.png" width="670">
+<img src="assets/yue-fullmoon.png" width="670">
 
 ### Yue New Moon
-<img src="assets/yue-new-moon.png" width="670">
+<img src="assets/yue-newmoon.png" width="670">
 
 ### Yue Sun
 <img src="assets/yue-sun.png" width="670">
 
 ### Yue Eclipse
-<img src="assets/yue-eclipse-bg.png" width="670">
+<img src="assets/yue-eclipse.png" width="670">
 
 ## Installation
 1. Copy yue.json to ~/.config/zed/themes/
