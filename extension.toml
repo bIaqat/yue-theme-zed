@@ -1,6 +1,6 @@
 id = "yue-theme"
 name = "Yue Theme"
-version = "1.1.0"
+version = "1.2.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "Theme based off the moonscript.org code examples"
